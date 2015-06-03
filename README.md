@@ -1,7 +1,7 @@
 # SearchEngines
-# Semester long project for course: Search Engines (CMU 11642)
-# run under Java 1.6 
-# uses classes from the Lucene search engine library 
+ Semester long project for course: Search Engines (CMU 11642)
+ run under Java 1.6 
+ uses classes from the Lucene search engine library 
 
 
 Phase 1:
